@@ -1,6 +1,6 @@
 [![MasterHead](https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)](https://github.com/Prashant-koi)
 
-<h1 align="center">Hi 👋, I'm Prashanta Koirala</h1>
+<h1 align="center">Hi 👋, I'm Prasant Koirala</h1>
 <h3 align="center">A passionate learner who loves exploring new ideas and concepts.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant-koi&label=Profile%20views&color=0e75b6&style=flat" alt="prashant-koi" /> </p>
