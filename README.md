@@ -9,8 +9,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 🌱 I’m currently learning about **Android Development**.
-
+- 🌱 I’m currently learning about **System Desigm**.
 - 📫 How to reach me **koiralaprashanta10@gmail.com**
 
 <p align="left">
@@ -56,7 +55,7 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashant-koi&show_icons=true&locale=en&layout=compact" alt="prashant-koi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashant-koi&theme=dark&show_icons=true&locale=en&layout=compact" alt="prashant-koi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashant-koi&show_icons=true&locale=en" alt="prashant-koi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashant-koi&theme=dark&show_icons=true&locale=en" alt="prashant-koi" /></p>
 
