@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Prasant Koirala</h1>
-<h3 align="center">A passionate learner who loves exploring new ideas and concepts.</h3>
+<h3 align="center">An Aspiring System Engineer who lives to build.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant-koi&label=Profile%20views&color=0e75b6&style=flat" alt="prashant-koi" /> </p>
 
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 🌱 I’m currently learning about **System Desigm**.
+
+- 🌱 I’m currently learning about **System Engineering**.
 - 📫 How to reach me **koiralaprashanta10@gmail.com**
 
 <p align="left">
@@ -55,7 +55,6 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashant-koi&theme=dark&show_icons=true&locale=en&layout=compact" alt="prashant-koi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashant-koi&theme=dark&show_icons=true&locale=en" alt="prashant-koi" /></p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=prashant-koi&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=prashant-koi&layout=compact&theme=radical)
 
