@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Prasant Koirala</h1>
+<h1 align="center">Hi, I'm Prasant Koirala</h1>
 <h3 align="center">An Aspiring System Engineer who lives to build.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant-koi&label=Profile%20views&color=0e75b6&style=flat" alt="prashant-koi" /> </p>
@@ -9,14 +9,20 @@
 
 
 
-- 🌱 I’m currently learning about **System Engineering**.
-- 📫 How to reach me **koiralaprashanta10@gmail.com**
+- I’m currently learning about **System Engineering**.
+- How to reach me **koiralaprashanta10@gmail.com**
 
 <p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+   <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" width="40" height="40"/>
   </a>
@@ -35,12 +41,6 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="MongoDB" width="40" height="40"/>
   </a>
-  <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" alt="NPM" width="40" height="40"/>
   </a>
@@ -55,6 +55,5 @@
   </a>
 </p>
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=prashant-koi&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=prashant-koi&layout=compact&theme=radical)
+
 
