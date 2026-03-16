@@ -9,7 +9,7 @@
 
 
 
-- I’m currently learning about **System Engineering**.
+- I’m currently learning about **System Engineering and Cyber Security**.
 - How to reach me **koiralaprashanta10@gmail.com**
 
 <p align="left">
