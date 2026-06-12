@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Prashant Koirala</h1>
+<h1 align="center">Hi, I'm Prasant Koirala</h1>
 <h3 align="center">Systems & security engineer. I build low-level tooling.</h3>
 
 <p align="center">
